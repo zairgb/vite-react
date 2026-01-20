@@ -1,10 +1,9 @@
 import React from 'react';
+import './saludo.css';
 
 function Saludo() {
     return (
-        <div>
-            <h1>si cambio</h1>
-        </div>
+        <button id='magic' className='btn'>magic</button>
     );
 }
 

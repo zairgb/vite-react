@@ -4,12 +4,7 @@ import Saludo from './components/saludo';
 
 function App() {  
   return (
-    <div>
-      <header>
-        <h1>Mi Aplicación React</h1>
-      </header>
-      <Saludo />
-    </div>
+    <Saludo/>
   )
 }
 
